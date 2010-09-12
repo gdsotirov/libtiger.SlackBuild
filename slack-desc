@@ -1,0 +1,11 @@
+libtiger: LibTiger (A rendering library for Kate streams)
+libtiger:
+libtiger: libtiger is a rendering library for Kate streams using Pango
+libtiger: and Cairo.
+libtiger:
+libtiger:
+libtiger:
+libtiger:
+libtiger:
+libtiger:
+libtiger: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
