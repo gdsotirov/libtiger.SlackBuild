@@ -1,8 +1,9 @@
+bzip2 >= 1.0.6
 cairo >= 1.8.8
 cxxlibs >= 6.0.13 | gcc-g++ >= 4.4.4
 expat >= 2.0.1
 fontconfig >= 2.8.0
-freetype >= 2.3.12
+freetype >= 2.5.5
 gcc >= 4.4.4
 glib2 >= 2.24.1
 glibc-solibs >= 2.11.1
@@ -11,7 +12,7 @@ libXau >= 1.0.5
 libXdmcp >= 1.0.3
 libXrender >= 0.9.5
 libkate >= 0.3.8
-libpng >= 1.4.2
+libpng >= 1.4.19
 libxcb >= 1.6
 pango >= 1.26.2
 pixman >= 0.16.6
